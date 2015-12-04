@@ -1,0 +1,28 @@
+name: Colourpixels
+favicon: null
+layout_spectrum: 0.0816891947761178
+typography_spectrum: 0.7133458687458187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7590492414310575
+  lightness: 0.29142890963703394
+  saturation: 0.4684021931607276
+  rhythmicContrast: 0.1370621370151639
+purpose: []
